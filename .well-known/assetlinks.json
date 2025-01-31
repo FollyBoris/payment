@@ -8,5 +8,9 @@
           "D0:63:76:7E:26:FA:0C:44:E0:81:7B:60:67:0C:C1:AE:7A:E6:1A:DD:99:C9:8A:C6:27:01:80:0E:EA:DB:56:7F"
         ]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.get_login_creds"],
+      "target" : { "namespace": "web", "site": "https://follyboris.github.io/payment" }
     }
   ]
